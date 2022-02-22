@@ -1,7 +1,10 @@
 BIENVENIDO A MI PAGINA  
 DONDE SE ABLA
 DE BASQUETBOL Y FUTBOL
+andando con sus patitas mojas  el gorrion
+el gorrion
 
+por la terraza de madera
 You can use the [editor on GitHub](https://github.com/aguilera-jorge/aguilera-jorge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
