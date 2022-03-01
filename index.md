@@ -3,7 +3,7 @@ DONDE SE ABLA
 DE BASQUETBOL Y FUTBOL
 andando con sus patitas mojas  el gorrion
 el gorrion
-
+^^
 por la terraza de madera
 You can use the [editor on GitHub](https://github.com/aguilera-jorge/aguilera-jorge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,9 +21,31 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
-+cristiano ronaldo
-+leo messi
+- MIS GUSTOS
+- *LA PIZZA
+- *TODO SOBRE EL FUTBOL
+- * TRABAJAR 
+- BULLETED
+- MIS HABILADES ESPECIALES 
+- *JUGAR JAMBAL
+- * TOCAR GUITARRA
+- *MANTENERME EN UN PIE 30 MINUTOS
+- BULLETED
+- MIS HABILIDADES TECNOLOGICAS 
+- *TECLEAR MAS RAPIDO
+- *PROGRMAR VIDEO JUEGOS
+- *JAKEAR JUEGOS
+- BULETED
+- MIS EXPERIENCIA LABORAL
+- *TORTILLERIA
+- *VENDEDOR DE PLAYERAS 
+- *CARGADOR DE BULTOS
+- BULLETED
+- DEPORTES QUE SE JUGAR
+- *FUTBOL
+- *BASQUEBOL
+- *JAMBAL
+- *FUTBOL AMERICANO 
 
 +neymar
 +marcelo
